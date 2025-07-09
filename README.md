@@ -1,2 +1,2 @@
-# sistema_bancario_Pyhon
+# sistema_bancario_Python
 Este projeto tem por finalidade desenvolver um sistema bancário com saques, depósitos e consulta de extrato, afim de ratificar os conhecimentos básicos da linguagem de programação Python.
